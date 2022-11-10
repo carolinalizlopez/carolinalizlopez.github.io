@@ -1,0 +1,3 @@
+https://carolinalizlopez.github.io/sitemap.xml
+User-agent: *
+Allow: /
